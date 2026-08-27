@@ -10,11 +10,19 @@ My work speaks to broader debates about how the dramatic rise in asset prices ov
 My work has been supported by the Russell Sage Foundation. I hold a PhD in Sociology and Social Policy from Princeton University and a BA in Philosophy from Columbia University.
 
 ## Publications
-+ Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion \(with Adam Goldstein\)
++ Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion \(with Adam Goldstein\). _Social Forces_, 2026.
   + [Pre-print](papers/bad_timing.pdf)
-+ [This is a paper hosted locally](papers/paper1.pdf)
-+ This can also be an arxiv link or a link to a journal website
-  * Syntax is [ square brackets for text ] (parentheses for file or location it points to)
+
+## Works in progress
++ Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corporate Investment in Housing. Revise and Resubmit at _American Sociological Review_.
+  + Robert D. Mare Graduate Student Paper Award of the ASA section on Inequality, Poverty, and Mobility (2026)
++ The Long-Term Effects of Rent Regulation on Children: Evidence from World War II-Era Federal Rent Control
+  + Russell Sage Foundation Dissertation Grant winner
++ Rising Housing Prices and Intergenerational Mobility
++ The Causal Effect of Childhood Exposure to Rising Housing Prices on Adult Outcomes: Heterogeneity by Housing Tenure
++ Who captures the gains in rental housing markets? Evidence from tax data
++ The Distribution of Realized Capital Gains on Housing
++ Birth Lottery? House Price Appreciation and the Intergenerational Transmission of Wealth
 
 
 ---
