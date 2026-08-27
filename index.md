@@ -17,7 +17,7 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
 + Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corporate Investment in Housing. Revise and Resubmit at _American Sociological Review_.
   + Robert D. Mare Graduate Student Paper Award of the ASA section on Inequality, Poverty, and Mobility (2026)
 + The Long-Term Effects of Rent Regulation on Children: Evidence from World War II-Era Federal Rent Control
-  + Russell Sage Foundation Dissertation Grant winner
+  + Russell Sage Foundation Dissertation Grant winner (2025)
 + Rising Housing Prices and Intergenerational Mobility
 + The Causal Effect of Childhood Exposure to Rising Housing Prices on Adult Outcomes: Heterogeneity by Housing Tenure
 + Who captures the gains in rental housing markets? Evidence from tax data
@@ -26,5 +26,3 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
 
 
 ---
-[Template repository](https://github.com/apoorvalal/minimal_website);
-Made with righteous fury by [Apoorva Lal](https://apoorvalal.github.io/)
