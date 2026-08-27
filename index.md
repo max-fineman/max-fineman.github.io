@@ -11,7 +11,7 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
 
 ## Publications
 + Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion \(with Adam Goldstein\)
-  + [Pre-print](
+  + [Pre-print](papers/bad_timing.pdf)
 + [This is a paper hosted locally](papers/paper1.pdf)
 + This can also be an arxiv link or a link to a journal website
   * Syntax is [ square brackets for text ] (parentheses for file or location it points to)
