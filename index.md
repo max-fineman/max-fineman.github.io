@@ -8,10 +8,10 @@ image: /images/for_card.jpg
 ## Postdoctoral Associate, NYU Wagner School of Public Service
 
 <div class="sitenav">
-  <a href="#publications">Research ·</a>
-  <a href="/cv.pdf">CV ·</a>
-  <a href="https://scholar.google.com/citations?user=gY9M4lwAAAAJ">Google Scholar ·</a>
-  <a href="https://orcid.org/0000-0003-2262-1118">ORCID ·</a>
+  <a href="#publications">Research</a>
+  <a href="/cv.pdf">CV</a>
+  <a href="https://scholar.google.com/citations?user=gY9M4lwAAAAJ">Google Scholar</a>
+  <a href="https://orcid.org/0000-0003-2262-1118">ORCID</a>
   <a href="mailto:m.fineman@nyu.edu">Email</a>
 </div>
 
