@@ -11,7 +11,7 @@ image: /images/headshot-cropped.jpg
 
 email: __m.fineman@nyu.edu__
 
-[Download CV (PDF)](cv.pdf) <span class="cv-date">Updated August 2026</span>
+[Download CV (PDF)](cv.pdf)
 
 I am a Postdoctoral Associate at the NYU Robert F. Wagner Graduate School of Public Service. My research examines asset ownership as an increasingly central engine of economic inequality and intergenerational mobility. Recent projects have studied the rise of corporate investment in single-family homes, the long-term effects of rent regulation on children, the divergent consequences of rising housing prices for the mobility of owners' and renters' children, and racial stratification in mass-participatory asset bubbles. These projects apply causal inference methods to historical and contemporary linked administrative data from census and tax records.
 
