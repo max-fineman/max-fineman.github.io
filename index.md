@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Max Fineman
 ## Postdoctoral Associate, NYU Wagner School of Public Service
 
