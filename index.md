@@ -1,6 +1,6 @@
 ---
 description: Postdoctoral Associate at NYU Wagner. Research on housing markets, asset ownership, and economic inequality.
-image: /images/headshot-cropped.jpg
+image: /images/for_card.jpg
 ---
 
 <link rel="stylesheet" href="style.css">
