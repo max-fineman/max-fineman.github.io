@@ -16,6 +16,7 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
 
 ## Publications
 [Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion](https://doi.org/10.1093/sf/soag061) 
+
 \(with [Adam Goldstein](https://sociology.princeton.edu/people/adam-goldstein)\). 
 
 _Social Forces_, 2026. 
