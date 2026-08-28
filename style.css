@@ -85,12 +85,13 @@ h3 {
    Attribute selector so no HTML changes are needed. If you rename
    the file, update the string or give the <img> a class instead.  */
 
-img[src*="headshot"] {
-  width: 175px;
+.headshot {
+  display: block;
+  width: 100%;
+  max-width: 460px;
   height: auto;
+  margin: 0 auto 2rem;
   border-radius: 4px;
-  float: right;
-  margin: 0.25rem 0 1.25rem 1.75rem;
 }
 
 /* ---------- nav ---------- */
@@ -171,12 +172,7 @@ hr {
   body { font-size: 16px; margin: 2rem auto 4rem; }
   h1 { font-size: 1.75rem; }
 
-  img[src*="headshot"] {
-    float: none;
-    display: block;
-    width: 140px;
-    margin: 0 0 1.5rem;
-  }
+  .headshot { max-width: 100%; margin-bottom: 1.5rem; }
 }
 
 /* ---------- motion ---------- */
