@@ -15,6 +15,7 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
 
 ## Works in progress
 + Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corporate Investment in Housing. Revise and Resubmit at _American Sociological Review_.
+  + [Pre-print](papers/exclusion_as_market_infrastructure.pdf)
   + Robert D. Mare Graduate Student Paper Award of the ASA section on Inequality, Poverty, and Mobility (2026)
 + The Long-Term Effects of Rent Regulation on Children: Evidence from World War II-Era Federal Rent Control
   + Russell Sage Foundation Dissertation Grant winner (2025)
