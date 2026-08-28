@@ -15,7 +15,7 @@ My work speaks to broader debates about how the dramatic rise in asset prices ov
 My work has been supported by the Russell Sage Foundation. I hold a PhD in Sociology and Social Policy from Princeton University and a BA in Philosophy from Columbia University.
 
 ## Publications
-+ [Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion](https://doi.org/10.1093/sf/soag061) \(with Adam Goldstein\). _Social Forces_, 2026.
++ [Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion](https://doi.org/10.1093/sf/soag061) \(with [Adam Goldstein](https://sociology.princeton.edu/people/adam-goldstein)\). _Social Forces_, 2026.
   + [PDF](papers/bad_timing.pdf)
 
 ## Under Review
