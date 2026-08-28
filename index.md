@@ -23,7 +23,7 @@ I am a Postdoctoral Associate at the NYU Robert F. Wagner Graduate School of Pub
 
 My work speaks to broader debates about how the dramatic rise in asset prices over the past four decades has redistributed wealth and advantage across households and reshaped economic inequality.
 
-My work has been supported by the Russell Sage Foundation. I hold a PhD in Sociology and Social Policy from Princeton University and a BA in Philosophy from Columbia University.
+My work has been supported by the Russell Sage Foundation and the Prize Fellowship in the Social Sciences. I hold a PhD in Sociology and Social Policy from Princeton University and a BA in Philosophy from Columbia University.
 
 ## Publications
 [Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion](https://doi.org/10.1093/sf/soag061) \(with [Adam Goldstein](https://sociology.princeton.edu/people/adam-goldstein)\). _Social Forces_, 2026. ([PDF](papers/bad_timing.pdf)) 
@@ -50,6 +50,7 @@ Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corpor
 + The Long-Term Effects of Rent Regulation on Children: Evidence from World War II-Era Federal Rent Control
   + Russell Sage Foundation Dissertation Grant winner (2025)
 + Housing Tenure and Intergenerational Mobility in an Era of Rising Unaffordability: Evidence from 40 Years of Tax Data"
++ Mortality Rates are Diverging Between the Children of Owners and Renters
 + Is There Negative Selection into Homeownership? Heterogeneous Treatment Effects of Homeownership by Tenure Status"
 + The Causal Effect of Childhood Exposure to Rising Housing Prices on Adult Outcomes: Heterogeneity by Housing Tenure
 + Who captures the gains in rental housing markets? Evidence from tax data
