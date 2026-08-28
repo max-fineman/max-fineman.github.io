@@ -44,13 +44,13 @@ Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corpor
   </details>
   + Robert D. Mare Graduate Student Paper Award of the ASA section on Inequality, Poverty, and Mobility (2026)
 
-
-
-## Works in Progress
+## Working Papers
 + The Long-Term Effects of Rent Regulation on Children: Evidence from World War II-Era Federal Rent Control
   + Russell Sage Foundation Dissertation Grant winner (2025)
 + Housing Tenure and Intergenerational Mobility in an Era of Rising Unaffordability: Evidence from 40 Years of Tax Data"
 + Mortality Rates are Diverging Between the Children of Owners and Renters
+
+## Works in Progress
 + Is There Negative Selection into Homeownership? Heterogeneous Treatment Effects of Homeownership by Tenure Status"
 + The Causal Effect of Childhood Exposure to Rising Housing Prices on Adult Outcomes: Heterogeneity by Housing Tenure
 + Who captures the gains in rental housing markets? Evidence from tax data
