@@ -16,7 +16,7 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
 
 ## Publications
 [Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion](https://doi.org/10.1093/sf/soag061) \(with [Adam Goldstein](https://sociology.princeton.edu/people/adam-goldstein)\). _Social Forces_, 2026. ([PDF](papers/bad_timing.pdf)) 
-<details style="margin-top: -12px; margin-bottom: 12px; cursor: pointer;">
+<details style="margin-bottom: 12px; cursor: pointer;">
     <summary style="font-weight: 500; color: #1a5fb4;">Abstract</summary>
     <p style="margin-top: 8px; padding-left: 12px; border-left: 2px solid #e0e0e0; color: #444;">
       This paper considers the relationship between market composition and temporal dynamics of ethno-racial stratification in mass-participatory asset bubbles. Beginning from the insight that bubbles possess the social structure of a Ponzi scheme, we first ask to what extent timing of entry is structured by racial status and associated resource disparities among participants. We then consider to what extent homophilous social cues and segregation amplify disparate rates of late-stage entry. We focus on the 2000–2008 US residential housing market, using neighborhood-level data from the Home Mortgage Disclosure Act and the Federal Housing Finance Authority. Conditional on mortgage lending terms, credit availability, and other tract-level characteristics, trends in housing purchase rates for Blacks and Hispanics diverged from those of Whites as prices neared their peaks. Residential segregation and processes of homophilous diffusion amplify price-bidding and exacerbate racial disparities in rates of late-stage entry by rendering actors less attuned to the emergent risks of buying at elevated prices, and more vulnerable to the overtures of predatory agents. The analysis links the sociology of financial markets to studies of racialized predatory inclusion by considering heterogenous market timing, a mechanism which has become increasingly salient as financialization draws more diverse actors into volatile asset markets.
@@ -24,9 +24,15 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
   </details>
 
 ## Under Review
-+ Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corporate Investment in Housing. Revise and Resubmit at _American Sociological Review_.
-  + [PDF](papers/exclusion_as_market_infrastructure.pdf)
-  + Robert D. Mare Graduate Student Paper Award of the ASA section on Inequality, Poverty, and Mobility (2026)
++ Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corporate Investment in Housing. Revise and Resubmit at _American Sociological Review_. ([PDF](papers/exclusion_as_market_infrastructure.pdf))
+<details style="margin-bottom: 12px; cursor: pointer;">
+    <summary style="font-weight: 500; color: #1a5fb4;">Abstract</summary>
+    <p style="margin-top: 8px; padding-left: 12px; border-left: 2px solid #e0e0e0; color: #444;">
+      As barriers to homeownership in the United States rise, corporate investors have acquired millions of single-family homes. Why do new market actors and asset classes emerge around basic goods like housing? Using the case of single-family housing, this paper argues that categorical household exclusion from such goods generates new forms of accumulation by reorganizing demand and enabling the emergence of new market actors positioned to capture returns. I analyze administrative data on single-family home purchases from 2007–2022 and introduce the Qualifying Income Index, a new measure of barriers to homeownership. Leveraging differential changes in mortgage lending standards across neighborhoods within metropolitan areas, I estimate the causal effect of renter exclusion on corporate investment. I find that rising exclusion increases corporate acquisitions, particularly by large, professionalized investors and in neighborhoods where middle-income renters are newly excluded from ownership. Investor responses are asymmetric. Improvements in affordability do little to reduce investment once corporate ownership is already established, revealing a path-dependent process of investor entrenchment. The findings motivate a broader concept of exclusion as infrastructure: barriers to mainstream market access generate dependent populations that support the emergence and persistence of new market actors and asset forms.
+    </p>
+  </details>
+Awards: Robert D. Mare Graduate Student Paper Award of the ASA section on Inequality, Poverty, and Mobility (2026)
+
 
 ## Works in Progress
 + The Long-Term Effects of Rent Regulation on Children: Evidence from World War II-Era Federal Rent Control
