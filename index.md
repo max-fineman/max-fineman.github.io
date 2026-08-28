@@ -7,6 +7,8 @@ image: /images/headshot-cropped.jpg
 
 ## Postdoctoral Associate, NYU Wagner School of Public Service
 
+[Research](#publications) · [CV](/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=gY9M4lwAAAAJ) · [ORCID](https://orcid.org/0000-0003-2262-1118) · [Email](mailto:m.fineman@nyu.edu)
+
 <img src="images/headshot-cropped.jpg" alt="Max Fineman" width="220" style="float: right; margin-left: 20px; border-radius: 4px;">
 
 email: __m.fineman@nyu.edu__
