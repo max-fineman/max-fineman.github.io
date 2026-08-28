@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="style.css">
 
-# Max Fineman
 ## Postdoctoral Associate, NYU Wagner School of Public Service
 
 <img src="headshot-cropped.png" alt="Max Fineman" width="220" style="float: right; margin-left: 20px; border-radius: 4px;">
