@@ -1,13 +1,13 @@
 ---
 description: Postdoctoral Associate at NYU Wagner. Research on housing markets, asset ownership, and economic inequality.
-image: /headshot-cropped.png
+image: /images/headshot-cropped.jpg
 ---
 
 <link rel="stylesheet" href="style.css">
 
 ## Postdoctoral Associate, NYU Wagner School of Public Service
 
-<img src="images/headshot-cropped.jpg" alt="Max Fineman" width="220" style="float: right; margin-left: 20px; border-radius: 4px;">
+<img src="images/headshot-cropped.png" alt="Max Fineman" width="220" style="float: right; margin-left: 20px; border-radius: 4px;">
 
 email: __m.fineman@nyu.edu__
 
