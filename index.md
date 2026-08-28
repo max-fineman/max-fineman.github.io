@@ -1,7 +1,7 @@
 # Max Fineman
 ## Postdoctoral Associate, NYU Wagner School of Public Service
 
-<img src="headshot_cropped.jpg" alt="Max Fineman" width="220" style="float: right; margin-left: 20px; border-radius: 4px;">
+<img src="headshot-cropped.png" alt="Max Fineman" width="220" style="float: right; margin-left: 20px; border-radius: 4px;">
 
 email: __m.fineman@nyu.edu__
 
