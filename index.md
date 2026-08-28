@@ -15,12 +15,12 @@ My work speaks to broader debates about how the dramatic rise in asset prices ov
 My work has been supported by the Russell Sage Foundation. I hold a PhD in Sociology and Social Policy from Princeton University and a BA in Philosophy from Columbia University.
 
 ## Publications
-+ Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion \(with Adam Goldstein\). _Social Forces_, 2026.
-  + [Pre-print](papers/bad_timing.pdf)
++ [Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion](https://doi.org/10.1093/sf/soag061) \(with Adam Goldstein\). _Social Forces_, 2026.
+  + [PDF](papers/bad_timing.pdf)
 
 ## Under Review
 + Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corporate Investment in Housing. Revise and Resubmit at _American Sociological Review_.
-  + [Pre-print](papers/exclusion_as_market_infrastructure.pdf)
+  + [PDF](papers/exclusion_as_market_infrastructure.pdf)
   + Robert D. Mare Graduate Student Paper Award of the ASA section on Inequality, Poverty, and Mobility (2026)
 
 ## Works in Progress
