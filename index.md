@@ -24,7 +24,7 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
   </details>
 
 ## Under Review
-+ Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corporate Investment in Housing. Revise and Resubmit at _American Sociological Review_. ([PDF](papers/exclusion_as_market_infrastructure.pdf))
+Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corporate Investment in Housing. Revise and Resubmit at _American Sociological Review_. ([PDF](papers/exclusion_as_market_infrastructure.pdf))
 <details style="margin-bottom: 12px; cursor: pointer;">
     <summary style="font-weight: 500; color: #1a5fb4;">Abstract</summary>
     <p style="margin-top: 8px; padding-left: 12px; border-left: 2px solid #e0e0e0; color: #444;">
