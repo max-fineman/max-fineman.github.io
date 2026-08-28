@@ -24,5 +24,4 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
 + The Distribution of Realized Capital Gains on Housing
 + Birth Lottery? House Price Appreciation and the Intergenerational Transmission of Wealth
 
-
 ---
