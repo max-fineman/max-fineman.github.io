@@ -19,10 +19,12 @@ My work has been supported by the Russell Sage Foundation. I hold a PhD in Socio
 + Bad timing: mass-participatory asset bubbles as a mechanism of predatory inclusion \(with Adam Goldstein\). _Social Forces_, 2026.
   + [Pre-print](papers/bad_timing.pdf)
 
-## Works in progress
+## Under Review
 + Exclusion as Market Infrastructure: How Barriers to Homeownership Sustain Corporate Investment in Housing. Revise and Resubmit at _American Sociological Review_.
   + [Pre-print](papers/exclusion_as_market_infrastructure.pdf)
   + Robert D. Mare Graduate Student Paper Award of the ASA section on Inequality, Poverty, and Mobility (2026)
+
+## Works in Progress
 + The Long-Term Effects of Rent Regulation on Children: Evidence from World War II-Era Federal Rent Control
   + Russell Sage Foundation Dissertation Grant winner (2025)
 + Rising Housing Prices and Intergenerational Mobility
