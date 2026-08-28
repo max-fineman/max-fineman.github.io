@@ -1,3 +1,8 @@
+---
+description: Postdoctoral Associate at NYU Wagner. Research on housing markets, asset ownership, and economic inequality.
+image: /headshot-cropped.png
+---
+
 <link rel="stylesheet" href="style.css">
 
 ## Postdoctoral Associate, NYU Wagner School of Public Service
